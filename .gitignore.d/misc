@@ -2,6 +2,7 @@
 !/bin
 !/bin/backup
 !/bin/notify
+!/bin/passmenu
 !/bin/volume
 !/.gitignore.d
 !/.gitignore.d/misc
