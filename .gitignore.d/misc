@@ -1,6 +1,7 @@
 *
 !/bin
 !/bin/backup
+!/bin/chromium-browser
 !/bin/notify
 !/bin/passmenu
 !/bin/volume
