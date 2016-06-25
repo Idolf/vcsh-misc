@@ -1,0 +1,2 @@
+#!/bin/sh
+exec ssh -o "UserKnownHostsFile ~/.ssh/gcloud_known_hosts" -o "StrictHostKeyChecking no" -o "User idolf" -i ~/.ssh/id_ed25519_googlecloud "$@"

@@ -3,6 +3,7 @@
 !/bin/backup
 !/bin/chromium-browser
 !/bin/fixtime
+!/bin/google-ssh
 !/bin/notify
 !/bin/passmenu
 !/bin/volume
