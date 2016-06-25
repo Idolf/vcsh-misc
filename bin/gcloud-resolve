@@ -1,0 +1,2 @@
+#!/bin/sh
+exec gcloud compute instances list "$1" --format 'table(EXTERNAL_IP)' | tail -n1

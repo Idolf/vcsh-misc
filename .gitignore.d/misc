@@ -3,8 +3,9 @@
 !/bin/backup
 !/bin/chromium-browser
 !/bin/fixtime
-!/bin/google-scp
-!/bin/google-ssh
+!/bin/gcloud-resolve
+!/bin/gcloud-scp
+!/bin/gcloud-ssh
 !/bin/notify
 !/bin/passmenu
 !/bin/volume
