@@ -13,7 +13,7 @@ def get_passwords():
 
 def run_rofi(options):
     p = subprocess.Popen(
-        ["rofi", "-dmenu", "-p", ""],
+        ["rofi", "-yoffset", "-150", "-dmenu", "-p", ""],
         stdin = subprocess.PIPE,
         stdout = subprocess.PIPE
     )
