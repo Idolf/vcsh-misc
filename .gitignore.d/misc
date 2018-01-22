@@ -1,7 +1,7 @@
 *
 !/bin
 !/bin/backup
-!/bin/chromium-browser
+!/bin/chromium
 !/bin/fixtime
 !/bin/gcloud-resolve
 !/bin/gcloud-scp
