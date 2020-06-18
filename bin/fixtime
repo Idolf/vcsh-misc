@@ -1,3 +1,3 @@
 #!/bin/sh
 
-exec sudo ntpdate 0.ch.pool.ntp.org 1.ch.pool.ntp.org 2.ch.pool.ntp.org 3.ch.pool.ntp.org
+exec sudo ntpdate 0.dk.pool.ntp.org 1.dk.pool.ntp.org 2.dk.pool.ntp.org 3.dk.pool.ntp.org
